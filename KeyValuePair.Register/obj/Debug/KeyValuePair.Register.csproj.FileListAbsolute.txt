@@ -1,0 +1,9 @@
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Register\bin\Debug\KeyValuePair.Register.dll
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Register\bin\Debug\KeyValuePair.Register.pdb
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Register\bin\Debug\KeyValuePair.Core.dll
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Register\bin\Debug\KeyValuePair.Mainifest.dll
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Register\bin\Debug\KeyValuePair.Core.pdb
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Register\bin\Debug\KeyValuePair.Mainifest.pdb
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Register\obj\Debug\KeyValuePair.Register.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Register\obj\Debug\KeyValuePair.Register.dll
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Register\obj\Debug\KeyValuePair.Register.pdb

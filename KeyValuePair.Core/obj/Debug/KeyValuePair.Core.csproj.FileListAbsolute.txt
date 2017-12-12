@@ -1,0 +1,4 @@
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Core\bin\Debug\KeyValuePair.Core.dll
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Core\bin\Debug\KeyValuePair.Core.pdb
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Core\obj\Debug\KeyValuePair.Core.dll
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Core\obj\Debug\KeyValuePair.Core.pdb

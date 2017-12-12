@@ -1,0 +1,7 @@
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Mainifest\bin\Debug\KeyValuePair.Mainifest.dll
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Mainifest\bin\Debug\KeyValuePair.Mainifest.pdb
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Mainifest\bin\Debug\KeyValuePair.Core.dll
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Mainifest\bin\Debug\KeyValuePair.Core.pdb
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Mainifest\obj\Debug\KeyValuePair.Mainifest.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Mainifest\obj\Debug\KeyValuePair.Mainifest.dll
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Mainifest\obj\Debug\KeyValuePair.Mainifest.pdb

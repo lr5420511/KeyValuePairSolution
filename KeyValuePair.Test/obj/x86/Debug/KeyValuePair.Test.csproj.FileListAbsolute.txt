@@ -1,0 +1,14 @@
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Test\bin\Debug\KeyValuePair.Test.exe
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Test\bin\Debug\KeyValuePair.Test.pdb
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Test\bin\Debug\KeyValuePair.Mainifest.dll
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Test\bin\Debug\KeyValuePair.Register.dll
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Test\bin\Debug\KeyValuePair.Core.dll
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Test\bin\Debug\KeyValuePair.Mainifest.pdb
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Test\bin\Debug\KeyValuePair.Register.pdb
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Test\bin\Debug\KeyValuePair.Core.pdb
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Test\obj\x86\Debug\KeyValuePair.Test.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Test\obj\x86\Debug\KeyValuePair.Test.Form1.resources
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Test\obj\x86\Debug\KeyValuePair.Test.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Test\obj\x86\Debug\KeyValuePair.Test.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Test\obj\x86\Debug\KeyValuePair.Test.exe
+c:\users\acer\documents\visual studio 2010\Projects\KeyValuePairSolution\KeyValuePair.Test\obj\x86\Debug\KeyValuePair.Test.pdb
